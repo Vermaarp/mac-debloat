@@ -74,7 +74,3 @@ Some macOS features will stop working. Apple updates may partially revert change
 **Use at your own risk.**
 
 ---
-
-## License
-
-MIT
