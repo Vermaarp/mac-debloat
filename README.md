@@ -13,7 +13,7 @@ Tested on macOS Ventura / Sonoma | Apple Silicon + Intel
 ```bash
 git clone https://github.com/yourusername/mac-debloat.git
 cd mac-debloat
-chmod +x slim.sh
+chmod +x slim-interactive.sh
 ./slim.sh
 ```
 
